@@ -1,26 +1,26 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🚀+NullSpecter+Projects+Timeline;💻+Cyber+Security+%7C+Full-Stack+Dev;👨‍💻+AbdUlrahman+Elsayed" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🚀+NullSpecter+Projects+Timeline;💻+Cyber+Security+%7C+Full-Stack+Dev;👨‍💻+AbdUlrahman+Elsayed" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Elite_Hacker-000000?style=for-the-badge&logo=windows-terminal&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Penetration_Tester-000000?style=for-the-badge&logo=window-restore&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Zero_Day_Research-000000?style=for-the-badge&logo=search&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/CTF_Player-000000?style=for-the-badge&logo=flag&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Bug_Bounty_Hunter-000000?style=for-the-badge&logo=bug&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Elite_Hacker-000000?style=for-the-badge&logo=windows-terminal&logoColor=00FF00" alt="Elite Hacker" />
+  <img src="https://img.shields.io/badge/Penetration_Tester-000000?style=for-the-badge&logo=window-restore&logoColor=00FF00" alt="Penetration Tester" />
+  <img src="https://img.shields.io/badge/Zero_Day_Research-000000?style=for-the-badge&logo=search&logoColor=00FF00" alt="Zero Day Research" />
+  <img src="https://img.shields.io/badge/CTF_Player-000000?style=for-the-badge&logo=flag&logoColor=00FF00" alt="CTF Player" />
+  <img src="https://img.shields.io/badge/Bug_Bounty_Hunter-000000?style=for-the-badge&logo=bug&logoColor=00FF00" alt="Bug Bounty Hunter" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cyber%20Security-%2300FF00.svg?&style=for-the-badge&logo=matrix&logoColor=black" />
-  <img src="https://img.shields.io/badge/Full%20Stack-%23121011.svg?&style=for-the-badge&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cyber_Security-00FF00?style=for-the-badge&logo=matrix&logoColor=black" alt="Cyber Security" />
+  <img src="https://img.shields.io/badge/Full_Stack-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-hacker-stats.vercel.app/api?username=NullSpecter&show_icons=true&theme=dark&count_private=true&include_all_commits=true&line_height=24" />
-  <img src="https://github-readme-hacker-stats.vercel.app/api/top-langs/?username=NullSpecter&layout=compact&theme=dark&langs_count=8&hide=html,css" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NullSpecter&show_icons=true&theme=dark&count_private=true&include_all_commits=true&line_height=24" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullSpecter&layout=compact&theme=dark&langs_count=8&hide=html,css" alt="Top Languages" />
 </div>
 
 ---
@@ -111,31 +111,27 @@
 ## 📬 للتواصل
 
 <p align="center">
-  <a href="mailto:boodapro540@gmail.com"><img src="https://img.shields.io/badge/Email-boodapro540%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" /></a>
-  <a href="https://www.linkedin.com/in/abdulrahman-elsayed-59a664313"><img src="https://img.shields.io/badge/LinkedIn-AbdUlrahman%20Elsayed-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" /></a>
-  <a href="https://www.facebook.com/abdulelsayd"><img src="https://img.shields.io/badge/Facebook-Abdulelsayd-000000?style=for-the-badge&logo=facebook&logoColor=00FF00" /></a>
-  <a href="https://www.youtube.com/@gamotek175"><img src="https://img.shields.io/badge/YouTube-Gamotek175-000000?style=for-the-badge&logo=youtube&logoColor=00FF00" /></a>
-  <a href="https://tryhackme.com/p/NullSpecter"><img src="https://img.shields.io/badge/TryHackMe-NullSpecter-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF00" /></a>
+  <a href="mailto:boodapro540@gmail.com"><img src="https://img.shields.io/badge/Email-boodapro540%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/abdulrahman-elsayed-59a664313"><img src="https://img.shields.io/badge/LinkedIn-AbdUlrahman%20Elsayed-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/abdulelsayd"><img src="https://img.shields.io/badge/Facebook-Abdulelsayd-000000?style=for-the-badge&logo=facebook&logoColor=00FF00" alt="Facebook" /></a>
+  <a href="https://www.youtube.com/@gamotek175"><img src="https://img.shields.io/badge/YouTube-Gamotek175-000000?style=for-the-badge&logo=youtube&logoColor=00FF00" alt="YouTube" /></a>
+  <a href="https://tryhackme.com/p/NullSpecter"><img src="https://img.shields.io/badge/TryHackMe-NullSpecter-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF00" alt="TryHackMe" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="600" alt="Matrix Animation" />
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp" width="600" alt="Matrix Animation" />
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/NullSpecter/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=NullSpecter&color=00FF00&style=flat-square" alt="Visitor Count" />
 </p>
 
 <p align="center">✨ المزيد من المشاريع قادم ... جاري الاختراق 🔥</p>
 
 <div align="center">
   
-  `#!-/bin/bash`
-  
-  `echo "أنا لست خبيرًا، أنا فقط فضولي"`
-  
-  `echo "Security is a process, not a product"`
-  
-</div>
+  ```bash
+  echo "أنا لست خبيرًا، أنا فقط فضولي"
+  echo "Security is a process, not a product"
