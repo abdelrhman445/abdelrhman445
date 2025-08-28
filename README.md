@@ -1,112 +1,96 @@
-# 🕶️ NullSpecter Portfolio  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🚀+NullSpecter+Projects+Timeline;💻+Cyber+Security+%7C+Full-Stack+Dev;👨‍💻+AbdUlrahman+Elsayed" alt="Typing Animation" />
+</h1>
 
-> 💀 **"From Code to Exploit — My Hacker’s Journey"**  
-
-<div align="center">
-
-![Hacker Animation](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)  
-
-[![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge)]()  
-[![Cyber Security](https://img.shields.io/badge/Cyber-Security-blue?style=for-the-badge&logo=hackaday)]()  
-[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github)]()  
-[![NullSpecter](https://img.shields.io/badge/Identity-NullSpecter-black?style=for-the-badge&logo=ghost)]()  
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cyber%20Security-%2300FF00.svg?&style=for-the-badge&logo=matrix&logoColor=black" />
+  <img src="https://img.shields.io/badge/Full%20Stack-%23121011.svg?&style=for-the-badge&logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
-- 👤 **Name:** AbdUlrahman Elsayed  
-- 🎭 **Alias:** NullSpecter  
-- 🛡️ **Role:** Cybersecurity Researcher & Developer  
-- 🛰️ **Focus:** Exploitation • Red Teaming • Secure Development  
+## 🛡️ Cyber Security Tools
+
+- **Rebel Security Scanner v4.0**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  أداة لفحص واستغلال الثغرات: XSS, SQLi, LFI, SSRF, File Upload, Security Headers.  
+
+- **NullSpecter Scanner (Advanced)**  
+  🚀 مع دعم Log4j، Spring4Shell، تسرب البيانات، واكتشاف المجالات الفرعية.  
 
 ---
 
-## 🚀 Projects Timeline  
+## 💻 Web & App Projects
 
-```ascii
-   ╔══════════════════════════════════════════╗
-   ║         🚩 MY JOURNEY TIMELINE 🚩         ║
-   ╚══════════════════════════════════════════╝
-```
+- **YouTube Courses Manager**  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+  React + Node.js + MongoDB.  
 
-### 🔥 2025 Projects
+- **Messenger Project (Admin Dashboard)**  
+  CRUD كامل لإدارة المستخدمين، المقالات، المحادثات.  
 
-- **🛡️ Rebel Security Scanner v4.0**  
-  `Python | Flask | CLI + HTML`  
-  - اكتشاف LFI, SSRF, SQLi, XSS, Uploads, Security Headers, Subdomains  
+- **Chat Application**  
+  Express + MongoDB + Socket.io  
+  🔥 دردشة لحظية مع صلاحيات أدمن + رفع الصور.  
 
-- **👻 NullSpecter Scanner**  
-  `Python`  
-  - إضافة فحوصات متقدمة: Log4j, Spring4Shell, Data Leaks  
-
-- **📺 YouTube Courses Manager**  
-  `React | Node.js | MongoDB | Docker`  
-  - إدارة الدورات مع واجهة مستخدم وواجهة إدارة  
-
-- **💬 Full Chat App**  
-  `Express | MongoDB | Socket.io`  
-  - تسجيل دخول، أدمن، رفع صور، رسائل لحظية  
-
-- **📊 Admin Dashboard**  
-  `React | MUI`  
-  - عرض/إدارة المستخدمين، المقالات، المحادثات  
-
-- **📝 PDF Arabic Generator**  
-  `pdf-lib | JS`  
-  - إنشاء PDF بالعربية مع دعم الوضع الليلي  
-
-- **📄 CV Builder**  
-  `HTML | CSS | JS | PHP | SQL`  
-  - أسئلة + تصميم تلقائي للسيرة الذاتية  
-
-- **📨 Temp Mail Tool**  
-  `Mail.tm API`  
-  - إنشاء إيميل مؤقت برمجيًا  
-
-- **⚽ Egyptian League API**  
-  `Node.js`  
-  - استعراض بيانات الأندية المصرية  
-
-- **💻 Messenger Project (Admin Panel)**  
-  `PHP | MySQL`  
-  - لوحة CRUD متكاملة لإدارة الرسائل  
-
-- **💰 حساباتي – Free Accounting System**  
-  `PHP | MySQL`  
-  - نظام محاسبة مجاني  
-
-- **⬇️ Video/Audio Downloader**  
-  `HTML | CSS | JS | PHP`  
-  - تحميل فيديو/صوت من أي منصة  
-
-- **🎓 NullSpecter Academy**  
-  `Labs | Hacking | Writeups`  
-  - شرح وحل لابات برمجة + هاكينج  
+- **Dashboard with React & MUI**  
+  واجهة إدارة احترافية لعرض وإدارة البيانات.  
 
 ---
 
-## ⚡ Hacker Vibes
+## 📄 Documents & PDF Tools
 
-```ascii
-    ███╗   ██╗██╗   ██╗██╗     ███████╗███████╗██████╗ 
-    ████╗  ██║██║   ██║██║     ██╔════╝██╔════╝██╔══██╗
-    ██╔██╗ ██║██║   ██║██║     █████╗  ███████╗██████╔╝
-    ██║╚██╗██║██║   ██║██║     ██╔══╝  ╚════██║██╔═══╝ 
-    ██║ ╚████║╚██████╔╝███████╗███████╗███████║██║     
-    ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝     
-```
+- **pdf.html Arabic PDF Generator**  
+  ✅ يدعم الخطوط العربية + الوضع الليلي.  
+
+- **CV Generator Website**  
+  🎨 HTML + CSS + JS + PHP + SQL  
 
 ---
 
-## 🌐 Social Links  
+## 💰 Business & Utilities
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahman-elsayed-59a664313)  
-- 📘 [Facebook](https://www.facebook.com/abdulelsayd)  
-- ▶️ [YouTube](https://www.youtube.com/@gamotek175)  
-- 🕷️ [HackerOne: NullSpecter](https://hackerone.com/)  
+- **حساباتي – نظام محاسبة مجاني**  
+  PHP + MySQL لإدارة العملاء والفواتير.  
+
+- **Video/Audio Downloader Website**  
+  🌀 تحميل الفيديو أو الصوت من أي منصة.  
+
+- **Temp Mail (Mail.tm API)**  
+  بريد مؤقت عبر API.  
 
 ---
 
-⭐ **Follow the Specter — More Projects Coming Soon…**
+## ⚽ APIs & Others
+
+- **Egyptian League API**  
+  ⚽ بيانات الأندية (الاسم، المدينة، الاستاد).  
+
+---
+
+## 🎓 Learning & Community
+
+- **NullSpecter Academy**  
+  📚 لابات هاكينج + شروحات برمجة وأمن سيبراني.  
+
+---
+
+## 📬 للتواصل
+
+<p align="center">
+  <a href="mailto:boodapro540@gmail.com"><img src="https://img.shields.io/badge/Email-boodapro540%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdulrahman-elsayed-59a664313"><img src="https://img.shields.io/badge/LinkedIn-AbdUlrahman%20Elsayed-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/abdulelsayd"><img src="https://img.shields.io/badge/Facebook-Abdulelsayd-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@gamotek175"><img src="https://img.shields.io/badge/YouTube-Gamotek175-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="600" alt="Hacker Animation" />
+</p>
+
+<p align="center">✨ المزيد من المشاريع قادم 🔥</p>
