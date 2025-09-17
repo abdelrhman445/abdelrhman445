@@ -2,37 +2,108 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🚀+NullSpecter+Projects+Timeline;💻+Cyber+Security+%7C+Full-Stack+Dev;👨‍💻+AbdUlrahman+Elsayed" alt="Typing Animation" />
 </h1>
 
-<p align="center">
-  <!-- Animation: Floating badges -->
-  <img src="https://img.shields.io/badge/Elite_Hacker-000000?style=for-the-badge&logo=windows-terminal&logoColor=00FF00" alt="Elite Hacker" />
-  <img src="https://img.shields.io/badge/Penetration_Tester-000000?style=for-the-badge&logo=window-restore&logoColor=00FF00" alt="Penetration Tester" />
-  <img src="https://img.shields.io/badge/Zero_Day_Research-000000?style=for-the-badge&logo=search&logoColor=00FF00" alt="Zero Day Research" />
-  <img src="https://img.shields.io/badge/CTF_Player-000000?style=for-the-badge&logo=flag&logoColor=00FF00" alt="CTF Player" />
-  <img src="https://img.shields.io/badge/Bug_Bounty_Hunter-000000?style=for-the-badge&logo=bug&logoColor=00FF00" alt="Bug Bounty Hunter" />
-</p>
-
-<!-- Animated skills section -->
+<!-- Animated Header Section -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Cyber_Security-00FF00?style=for-the-badge&logo=matrix&logoColor=black" alt="Cyber Security" />
-  <img src="https://img.shields.io/badge/Full_Stack-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Node.js-70%25-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js 70%" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NullSpecter&theme=github_dark" alt="Profile Details" />
 </div>
 
-<!-- Animated stats -->
+<p align="center">
+  <!-- Floating badges with animation -->
+  <img src="https://img.shields.io/badge/Elite_Hacker-000000?style=for-the-badge&logo=windows-terminal&logoColor=00FF00&labelColor=000000" alt="Elite Hacker" />
+  <img src="https://img.shields.io/badge/Penetration_Tester-000000?style=for-the-badge&logo=window-restore&logoColor=00FF00&labelColor=000000" alt="Penetration Tester" />
+  <img src="https://img.shields.io/badge/Zero_Day_Research-000000?style=for-the-badge&logo=search&logoColor=00FF00&labelColor=000000" alt="Zero Day Research" />
+  <img src="https://img.shields.io/badge/CTF_Player-000000?style=for-the-badge&logo=flag&logoColor=00FF00&labelColor=000000" alt="CTF Player" />
+  <img src="https://img.shields.io/badge/Bug_Bounty_Hunter-000000?style=for-the-badge&logo=bug&logoColor=00FF00&labelColor=000000" alt="Bug Bounty Hunter" />
+</p>
+
+<!-- Skills Grid with Animation -->
+<h2 align="center">🛠️ Technical Skills</h2>
+
 <div align="center">
-  <a href="https://github.com/NullSpecter">
-    <img src="https://github-readme-stats.vercel.app/api?username=NullSpecter&show_icons=true&theme=dark&count_private=true&include_all_commits=true&line_height=24" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullSpecter&layout=compact&theme=dark&langs_count=8&hide=html,css" alt="Top Languages" />
-  </a>
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        </a>
+        <br>Node.js
+        <br><sub>70%</sub>
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        </a>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+        </a>
+        <br>PHP
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        </a>
+        <br>MongoDB
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+        </a>
+        <br>Express
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+        </a>
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        </a>
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        </a>
+        <br>Git
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NullSpecter&theme=darkhub&margin-w=15&margin-h=15&column=7](https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" alt="Trophies" />
-</p>
+<!-- GitHub Stats with better animation -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NullSpecter&show_icons=true&theme=dark&count_private=true&include_all_commits=true&line_height=24" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullSpecter&layout=compact&theme=dark&langs_count=8&hide=html,css" alt="Top Languages" />
+</div>
+
+<!-- Fixed GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NullSpecter&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NullSpecter&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 
 ---
 
@@ -136,7 +207,7 @@
 
 <!-- Animated footer -->
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kyj4eajmyt7esvq5h5nqjqb26y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=00ff00&bar_color_cover=false" alt="Spotify" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NullSpecter&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
 </div>
 
 ---
