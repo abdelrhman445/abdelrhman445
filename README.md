@@ -205,6 +205,7 @@
   <a href="https://tryhackme.com/p/NullSpecter"><img src="https://img.shields.io/badge/TryHackMe-NullSpecter-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF00" alt="TryHackMe" /></a>
 </p>
 
+---
 <!-- Alternative GitHub Streak Stats -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=NullSpecter&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
