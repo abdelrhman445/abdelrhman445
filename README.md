@@ -31,7 +31,7 @@
 
 <!-- Animated divider -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NullSpecter&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=NullSpecter&theme=darkhub&margin-w=15&margin-h=15&column=7](https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png)" alt="Trophies" />
 </p>
 
 ---
