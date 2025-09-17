@@ -207,9 +207,8 @@
 
 <!-- Animated footer -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NullSpecter&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NullSpecter&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
-
 ---
 
 <p align="center">
