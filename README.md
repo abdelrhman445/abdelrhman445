@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🚀+NullSpecter+Projects+Timeline;💻+Cyber+Security+%7C+Full-Stack+Dev;👨‍💻+AbdUlrahman+Elsayed" alt="Typing Animation" />
 </h1>
 
-
 <p align="center">
+  <!-- Animation: Floating badges -->
   <img src="https://img.shields.io/badge/Elite_Hacker-000000?style=for-the-badge&logo=windows-terminal&logoColor=00FF00" alt="Elite Hacker" />
   <img src="https://img.shields.io/badge/Penetration_Tester-000000?style=for-the-badge&logo=window-restore&logoColor=00FF00" alt="Penetration Tester" />
   <img src="https://img.shields.io/badge/Zero_Day_Research-000000?style=for-the-badge&logo=search&logoColor=00FF00" alt="Zero Day Research" />
@@ -11,18 +11,28 @@
   <img src="https://img.shields.io/badge/Bug_Bounty_Hunter-000000?style=for-the-badge&logo=bug&logoColor=00FF00" alt="Bug Bounty Hunter" />
 </p>
 
-<p align="center">
+<!-- Animated skills section -->
+<div align="center">
   <img src="https://img.shields.io/badge/Cyber_Security-00FF00?style=for-the-badge&logo=matrix&logoColor=black" alt="Cyber Security" />
   <img src="https://img.shields.io/badge/Full_Stack-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Node.js-70%25-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js 70%" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NullSpecter&show_icons=true&theme=dark&count_private=true&include_all_commits=true&line_height=24" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullSpecter&layout=compact&theme=dark&langs_count=8&hide=html,css" alt="Top Languages" />
 </div>
+
+<!-- Animated stats -->
+<div align="center">
+  <a href="https://github.com/NullSpecter">
+    <img src="https://github-readme-stats.vercel.app/api?username=NullSpecter&show_icons=true&theme=dark&count_private=true&include_all_commits=true&line_height=24" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullSpecter&layout=compact&theme=dark&langs_count=8&hide=html,css" alt="Top Languages" />
+  </a>
+</div>
+
+<!-- Animated divider -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NullSpecter&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+</p>
 
 ---
 
@@ -48,14 +58,17 @@
 - **YouTube Courses Manager**  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+  ![Node.js](https://img.shields.io/badge/Node.js-70%25-339933?style=for-the-badge&logo=node.js&logoColor=white)  
   React + Node.js + MongoDB.  
 
 - **Messenger Project (Admin Dashboard)**  
   ![Admin](https://img.shields.io/badge/ADMIN-000000?style=for-the-badge&logo=shield&logoColor=00FF00)  
+  ![Node.js](https://img.shields.io/badge/Node.js-70%25-339933?style=for-the-badge&logo=node.js&logoColor=white)  
   CRUD كامل لإدارة المستخدمين، المقالات، المحادثات.  
 
 - **Chat Application**  
   ![Socket](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)  
+  ![Node.js](https://img.shields.io/badge/Node.js-70%25-339933?style=for-the-badge&logo=node.js&logoColor=white)  
   Express + MongoDB + Socket.io  
   🔥 دردشة لحظية مع صلاحيات أدمن + رفع الصور.  
 
@@ -97,6 +110,7 @@
 
 - **Egyptian League API**  
   ![API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api&logoColor=00FF00)  
+  ![Node.js](https://img.shields.io/badge/Node.js-70%25-339933?style=for-the-badge&logo=node.js&logoColor=white)  
   ⚽ بيانات الأندية (الاسم، المدينة، الاستاد).  
 
 ---
@@ -112,12 +126,18 @@
 ## 📬 للتواصل
 
 <p align="center">
+  <!-- Animated contact buttons -->
   <a href="mailto:boodapro540@gmail.com"><img src="https://img.shields.io/badge/Email-boodapro540%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/abdulrahman-elsayed-59a664313"><img src="https://img.shields.io/badge/LinkedIn-AbdUlrahman%20Elsayed-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/abdulelsayd"><img src="https://img.shields.io/badge/Facebook-Abdulelsayd-000000?style=for-the-badge&logo=facebook&logoColor=00FF00" alt="Facebook" /></a>
   <a href="https://www.youtube.com/@gamotek175"><img src="https://img.shields.io/badge/YouTube-Gamotek175-000000?style=for-the-badge&logo=youtube&logoColor=00FF00" alt="YouTube" /></a>
   <a href="https://tryhackme.com/p/NullSpecter"><img src="https://img.shields.io/badge/TryHackMe-NullSpecter-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF00" alt="TryHackMe" /></a>
 </p>
+
+<!-- Animated footer -->
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kyj4eajmyt7esvq5h5nqjqb26y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=00ff00&bar_color_cover=false" alt="Spotify" />
+</div>
 
 ---
 
@@ -127,6 +147,7 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=NullSpecter&color=00FF00&style=flat-square" alt="Visitor Count" />
+  <img src="https://img.shields.io/github/followers/NullSpecter?label=Follow&style=social&color=00FF00" alt="GitHub Followers" />
 </p>
 
 <p align="center">✨ المزيد من المشاريع قادم ... جاري الاختراق 🔥</p>
