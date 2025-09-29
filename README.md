@@ -236,4 +236,3 @@
 </div>
 
 <!-- Footer note -->
-<p align="center" style="opacity:0.8">README مُعد ومحدّث بتاريخ التعديل النهائي — جاهز للنسخ مباشرة إلى ملف <code>README.md</code>.</p>
