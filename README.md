@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/Bug_Bounty_Hunter-000000?style=for-the-badge&logo=bug&logoColor=00FF00&labelColor=000000" alt="Bug Bounty Hunter" />
 </p>
 
+<!-- Summary / One-liner -->
+<p align="center">🔎 Research-driven Cybersecurity Engineer & Full‑Stack Developer — building tools, pentesting, and delivering production-ready web apps.</p>
+
 <!-- Skills Grid with Animation -->
 <h2 align="center">🛠️ Technical Skills</h2>
 
@@ -106,13 +109,16 @@
 </div>
 
 <!-- Cyber Security Tools -->
-<h2 align="center">🛡️ Cyber Security Tools</h2>
+<h2 align="center">🛡️ Cyber Security Tools & Platforms</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=target&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logo=burp-suite&logoColor=FF6600" />
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Sqlmap-000000?style=for-the-badge&logo=database&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=linux&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logo=graph&logoColor=00FF00" />
 </p>
 
 <!-- GitHub Stats with better animation -->
@@ -132,3 +138,102 @@
 </div>
 
 ---
+
+## 🔓 أدوات الأمن السيبراني المتقدمة
+
+- **Rebel Security Scanner v4.0**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  أدوات متقدمة لفحص واستغلال الثغرات: XSS, SQLi, LFI, SSRF, File Upload, Security Headers.  
+  **حالة:** مُستخدم في مشاريع اختبار الاختراق الداخلي.
+
+- **NullSpecter Scanner (الإصدار المتقدم)**  
+  ![Elite](https://img.shields.io/badge/ELITE-000000?style=for-the-badge&logo=star&logoColor=00FF00)  
+  دعم متقدم لـ Log4j، Spring4Shell، تسرب البيانات، واكتشاف المجالات الفرعية.
+
+- **Kali Linux Toolkit**  
+  ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+  مجموعة أدوات مخصصة للاختراق الأخلاقي واختبار الاختراق (Nmap, Metasploit, Burp, SQLmap...).
+
+---
+
+## 💻 مشاريع الويب والتطبيقات
+
+- **YouTube Courses Manager**  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Node.js](https://img.shields.io/badge/Node.js-70%25-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+  React + Node.js + MongoDB. واجهة مستخدم وإدارة دورات مع دعم Docker وCI.
+
+- **Messenger Project (Admin Dashboard)**  
+  ![Admin](https://img.shields.io/badge/ADMIN-000000?style=for-the-badge&logo=shield&logoColor=00FF00)  
+  CRUD كامل لإدارة المستخدمين، المقالات، المحادثات.
+
+- **Chat Application**  
+  ![Socket](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)  
+  Express + MongoDB + Socket.io — دردشة لحظية مع صلاحيات أدمن + رفع صور.
+
+- **Dashboard with React & MUI**  
+  واجهة إدارة احترافية لعرض وإدارة البيانات (Users, Reports, Vulnerabilities).
+
+- **حساباتي – نظام محاسبة مجاني**  
+  PHP + MySQL لإدارة العملاء والفواتير.
+
+- **Temp Mail (Mail.tm API)**  
+  نظام بريد مؤقت للتجارب والاختبارات.
+
+- **Video/Audio Downloader Website**  
+  تحميل الفيديو أو الصوت من منصات متعددة مع تحويل وواجهة بسيطة.
+
+---
+
+## 🧩 Soft Skills
+
+- Problem Solving — حل مشاكل معقدة في وقت قصير.
+- Research & Reporting — توثيق نتائج الفحص وتقديم تقارير قابلة للتنفيذ.
+- Teamwork & Mentoring — تدريب وتوجيه زملاء لفهم أساسيات الأمن.
+- Time Management — إدارة مهام متعددة مع أولويات واضحة.
+
+---
+
+## 📄 مستندات وتقارير (نماذج)
+
+- تقرير فحص أمني (Vulnerability Assessment) — قالب PDF جاهز للتصدير.
+- تقارير Bug Bounty — قالب جاهز مع خطوات التكاثر (PoC)، التأثير، والتوصيات.
+
+---
+
+## 📬 للتواصل
+
+<p align="center">
+  <a href="mailto:boodapro540@gmail.com"><img src="https://img.shields.io/badge/Email-boodapro540%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/abdulrahman-elsayed-59a664313"><img src="https://img.shields.io/badge/LinkedIn-AbdUlrahman%20Elsayed-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/abdulelsayd"><img src="https://img.shields.io/badge/Facebook-Abdulelsayd-000000?style=for-the-badge&logo=facebook&logoColor=00FF00" alt="Facebook" /></a>
+  <a href="https://www.youtube.com/@gamotek175"><img src="https://img.shields.io/badge/YouTube-Gamotek175-000000?style=for-the-badge&logo=youtube&logoColor=00FF00" alt="YouTube" /></a>
+  <a href="https://tryhackme.com/p/NullSpecter"><img src="https://img.shields.io/badge/TryHackMe-NullSpecter-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF00" alt="TryHackMe" /></a>
+</p>
+
+---
+
+<!-- Alternative GitHub Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=NullSpecter&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
+</div>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp" width="600" alt="Matrix Animation" />
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=NullSpecter&color=00FF00&style=flat-square" alt="Visitor Count" />
+  <img src="https://img.shields.io/github/followers/NullSpecter?label=Follow&style=social&color=00FF00" alt="GitHub Followers" />
+</p>
+
+<p align="center">✨ المزيد من المشاريع قادم ... جاري الاختراق 🔥</p>
+
+<div align="center">
+  ```bash
+  echo "أنا لست خبيرًا، أنا فقط فضولي"
+  echo "Security is a process, not a product"
+  ```
+</div>
+
+<!-- Footer note -->
+<p align="center" style="opacity:0.8">README مُعد ومحدّث بتاريخ التعديل النهائي — جاهز للنسخ مباشرة إلى ملف <code>README.md</code>.</p>
