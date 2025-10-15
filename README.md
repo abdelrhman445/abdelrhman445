@@ -8,32 +8,30 @@
 </div>
 
 <div align="center">
-
+  
 ![GitHub Followers](https://img.shields.io/github/followers/Abdelrahmaneala?style=for-the-badge&label=Followers&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/Abdelrahmaneala?style=for-the-badge&label=Stars&color=yellow)
 ![Visitors](https://komarev.com/ghpvc/?username=Abdelrahmaneala&style=for-the-badge&color=blueviolet)
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ## 🎮 **Live Terminal Simulation**
-</div>
 
 ```bash
 #!/bin/bash
 echo "🔓 INITIATING SYSTEM ACCESS..."
 sleep 1
-echo "⚡ BYPASSING SECURITY PROTOCOLS..."
+echo "⚡ BYPASSING SECURITY PROTOCOLS..."  
 sleep 1
 echo "🎯 TARGET ACQUIRED: YOUR ATTENTION"
 sleep 1
 echo "💾 DOWNLOADING AWESOMENESS..."
 sleep 1
 echo "✅ MISSION ACCOMPLISHED!"
-```
 
 ---
 
