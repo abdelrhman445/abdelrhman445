@@ -8,11 +8,15 @@
 
 <div align="center">
   
-![GitHub Followers](https://img.shields.io/github/followers/Abdelrahmaneala?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/Abdelrahmaneala?style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/Abdelrahmaneala?style=for-the-badge&label=Followers&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/Abdelrahmaneala?style=for-the-badge&label=Stars&color=yellow)
 ![Visitors](https://komarev.com/ghpvc/?username=Abdelrahmaneala&style=for-the-badge&color=blueviolet)
 
 </div>
+
+<br>
+
+<div align="center">
 
 ## 🎮 **Live Terminal Simulation**
 
@@ -20,32 +24,34 @@
 #!/bin/bash
 echo "🔓 INITIATING SYSTEM ACCESS..."
 sleep 1
-echo "⚡ BYPASSING SECURITY PROTOCOLS..."
-sleep 1  
+echo "⚡ BYPASSING SECURITY PROTOCOLS..."  
+sleep 1
 echo "🎯 TARGET ACQUIRED: YOUR ATTENTION"
 sleep 1
 echo "💾 DOWNLOADING AWESOMENESS..."
 sleep 1
 echo "✅ MISSION ACCOMPLISHED!"
-```
+</div>
 🌟 Real-time Stats Dashboard
 <div align="center">
-http://img.shields.io/badge/Code%2520Time-2000%2520hrs%2520logged-blue
-https://img.shields.io/badge/Lines%2520of%2520Code-1M%252B%2520written-green
-https://img.shields.io/badge/Projects-50%252B%2520completed-orange
-https://img.shields.io/badge/Coffee-1000%252B%2520cups-brown
+https://img.shields.io/badge/Code%2520Time-2000%2520hrs%2520logged-blue?style=flat-square
+https://img.shields.io/badge/Lines%2520of%2520Code-1M%252B%2520written-green?style=flat-square
+https://img.shields.io/badge/Projects-50%252B%2520completed-orange?style=flat-square
+https://img.shields.io/badge/Coffee-1000%252B%2520cups-brown?style=flat-square
 
 </div>
 ⚡ Live Activity Feed
 <div align="center">
-🎯 Just pushed groundbreaking code
-🚀 Deployed revolutionary project
-💡 Solved complex algorithm
-🔥 Optimized system performance
-🌟 Created AI masterpiece
-
+Status	Activity
+🎯	Just pushed groundbreaking code
+🚀	Deployed revolutionary project
+💡	Solved complex algorithm
+🔥	Optimized system performance
+🌟	Created AI masterpiece
 </div>
-```
+🎨 Matrix Code Master
+<div align="center">
+javascript
 class CyberHacker {
   constructor() {
     this.skills = ['AI/ML', 'Cybersecurity', 'Blockchain', 'DevOps'];
@@ -64,7 +70,7 @@ class CyberHacker {
 
 const me = new CyberHacker();
 me.innovate(); // 🚀 Running forever...
-```
+</div>
 🔥 Live GitHub Analytics
 <div align="center">
 https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahmaneala&theme=dark&hide_border=true
@@ -73,7 +79,8 @@ https://github-readme-stats.vercel.app/api?username=Abdelrahmaneala&show_icons=t
 https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahmaneala&layout=compact&theme=radical
 
 </div>
-```
+🎯 Skills Matrix
+text
 AI/ML Development    ██████████ 100%
 Cybersecurity        ██████████ 100%
 Cloud Computing      █████████░  90%
@@ -81,7 +88,7 @@ Blockchain           ████████░░  80%
 DevOps               ██████████ 100%
 Web Development      ██████████ 100%
 Mobile Development   ████████░░  80%
-```
+
 💻 Tech Arsenal
 <div align="center">
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
@@ -93,9 +100,14 @@ https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoC
 
 </div>
 ✨ Special Effects Zone
-<div align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/></div>
+<div align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Hacker GIF"/></div>
 🎪 Interactive Elements
-<table> <tr> <td width="50%"> <h3>🎯 Current Focus</h3> <p>🔥 Building next-gen AI systems</p> <p>🚀 Exploring quantum computing</p> <p>💡 Mastering cybersecurity</p> </td> <td width="50%"> <h3>🎮 Fun Facts</h3> <p>☕ Coffee-powered coder</p> <p>🌙 Night owl developer</p> <p>🚀 Space tech enthusiast</p> </td> </tr> </table>
+<div align="center">
+🎯 Current Focus	🎮 Fun Facts
+🔥 Building next-gen AI systems	☕ Coffee-powered coder
+🚀 Exploring quantum computing	🌙 Night owl developer
+💡 Mastering cybersecurity	🚀 Space tech enthusiast
+</div>
 📡 Connect With Me
 <div align="center">
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
@@ -107,4 +119,4 @@ https://img.shields.io/badge/Portfolio-%2523000000.svg?style=for-the-badge&logo=
 <div align="center">
 "الكود ليس مجرد أوامر.. إنه لغة الإبداع والسحر الرقمي" ✨
 ⭐ إذا أعجبك محتواي، لا تنسى المتابعة والنجوم!
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150"/></div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div> ```
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150" alt="Star GIF"/></div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div> ```
