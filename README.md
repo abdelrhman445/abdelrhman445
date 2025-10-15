@@ -1,4 +1,4 @@
-```
+```bash
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=🚀+Welcome+to+My+World;💻+Professional+Hacker;🔥+AI+Enthusiast;⚡+Code+Wizard;🎯+Problem+Solver" alt="Typing SVG" />
 </h1>
