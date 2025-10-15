@@ -1,37 +1,37 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=🚀+Welcome+to+My+World;💻+Professional+Hacker;🔥+AI+Enthusiast;⚡+Code+Wizard;🎯+Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🚀%20Abdelrahmaneala&fontSize=50&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🚀%20Abdelrahmaneala&fontSize=50&fontColor=fff&animation=fadeIn" alt="Header Capsule"/>
 </div>
 
 <div align="center">
-  
+
 ![GitHub Followers](https://img.shields.io/github/followers/Abdelrahmaneala?style=for-the-badge&label=Followers&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/Abdelrahmaneala?style=for-the-badge&label=Stars&color=yellow)
 ![Visitors](https://komarev.com/ghpvc/?username=Abdelrahmaneala&style=for-the-badge&color=blueviolet)
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
 ## 🎮 **Live Terminal Simulation**
+</div>
 
-```bash
-#!/bin/bash
+<pre><code class="language-bash">#!/bin/bash
 echo "🔓 INITIATING SYSTEM ACCESS..."
 sleep 1
-echo "⚡ BYPASSING SECURITY PROTOCOLS..."  
+echo "⚡ BYPASSING SECURITY PROTOCOLS..."
 sleep 1
 echo "🎯 TARGET ACQUIRED: YOUR ATTENTION"
 sleep 1
 echo "💾 DOWNLOADING AWESOMENESS..."
 sleep 1
 echo "✅ MISSION ACCOMPLISHED!"
+</code></pre>
 
 ---
 
@@ -69,8 +69,7 @@ echo "✅ MISSION ACCOMPLISHED!"
 ## 🎨 **Matrix Code Master**
 </div>
 
-```javascript
-class CyberHacker {
+<pre><code class="language-javascript">class CyberHacker {
   constructor() {
     this.skills = ['AI/ML', 'Cybersecurity', 'Blockchain', 'DevOps'];
     this.level = 'LEGENDARY';
@@ -88,7 +87,7 @@ class CyberHacker {
 
 const me = new CyberHacker();
 me.innovate(); // 🚀 Running forever...
-```
+</code></pre>
 
 ---
 
@@ -109,15 +108,13 @@ me.innovate(); // 🚀 Running forever...
 ## 🎯 **Skills Matrix**
 </div>
 
-```
-AI/ML Development    ██████████ 100%
+<pre><code>AI/ML Development    ██████████ 100%
 Cybersecurity        ██████████ 100%
 Cloud Computing      █████████░  90%
 Blockchain           ████████░░  80%
 DevOps               ██████████ 100%
 Web Development      ██████████ 100%
-Mobile Development   ████████░░  80%
-```
+Mobile Development   ████████░░  80%</code></pre>
 
 ---
 
@@ -184,6 +181,5 @@ Mobile Development   ████████░░  80%
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Capsule"/>
 </div>
-```
