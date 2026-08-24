@@ -113,6 +113,12 @@
 <a href="https://github.com/abdelrhman445"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
 <a href="https://www.linkedin.com/in/abdelrahmanelsayed445/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/></a>
 <a href="https://portfolio.nullspecteracademy.ninja/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=39FF14"/></a>
+<br/>
+<a href="https://www.youtube.com/@abdulrahman_albat"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
+<a href="https://www.tiktok.com/@abdulrhmanelbaty"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=ffffff"/></a>
+<a href="https://www.instagram.com/albati445/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+<a href="https://www.facebook.com/share/18NpWwA9Hv/"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2"/></a>
+<a href="https://x.com/GamoTek"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ffffff"/></a>
 
 </div>
 
