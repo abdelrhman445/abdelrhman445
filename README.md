@@ -111,11 +111,9 @@
 ## ⌁ CONNECT
 
 <a href="https://github.com/abdelrhman445"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
+<a href="https://www.linkedin.com/in/abdelrahmanelsayed445/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/></a>
+<a href="https://portfolio.nullspecteracademy.ninja/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=39FF14"/></a>
 
-</div>
-
-<div align="center">
-<sub>send me your LinkedIn / Telegram / portfolio links and I'll wire the badges directly to them</sub>
 </div>
 
 <br/>
